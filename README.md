@@ -47,6 +47,16 @@ Built with a custom dark-mode desktop GUI and encrypted communication protocols,
 
 ---
 
+
+## Key Features
+
+- **[ ✦ ] Ecosystem Administration**: Centralized command center for managing all ChellSpace modules.
+- **[ ✦ ] HWID Access Control**: Real-time hardware fingerprint validation and authorization management.
+- **[ ✦ ] Client Telemetry Audit**: Live monitoring of active client connections, execution logs, and network telemetry.
+- **[ ✦ ] Credential Revocation**: Instant revocation of access licenses and immediate module termination for compromised hosts.
+- **[ ✦ ] Secure Cloud Sync**: Encrypted bidirectional state synchronization via Supabase backend.
+
+---
 ## System Architecture
 
 ```
